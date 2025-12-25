@@ -2,7 +2,7 @@
 
 This repository shows the optimization of silicon photonic grating couplers using CMA-ES algorithm.
 
-This work is part of an M.Tech research project. The source code is not publicly shared but can be made available upon reasonable request. The system architecture is shown below with block diagrams.
+This work is part of an M.Tech research project. The source code is not publicly shared but can be made available upon reasonable request. The full source code will be released upon completion of the research. The system architecture is shown below with block diagrams.
 
 ## Project Overview
 
@@ -35,5 +35,6 @@ The selected grating profiles were further optimized using CMA-ES algorithm with
 ![Grating Coupler Construction Workflow](create_grating_coupler.png)
 
 ## The Result
+
 
 Best result: TE transmission = 0.7247, TM transmission = 0.7359
